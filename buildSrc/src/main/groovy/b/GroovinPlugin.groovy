@@ -1,3 +1,4 @@
+package b;
 import org.gradle.api.*
 import org.gradle.api.plugins.*
 class GroovinPlugin implements Plugin<Project> {

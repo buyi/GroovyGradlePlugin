@@ -1,4 +1,5 @@
-apply plugin: GroovinPlugin
+apply plugin: b.GroovinPlugin
+//apply plugin: 'com.android.application'
 task wrapper(type: Wrapper) {
     gradleVersion = '2.2'
 }
